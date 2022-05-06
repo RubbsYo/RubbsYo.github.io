@@ -7,8 +7,12 @@ h3 {background-color: rgba(211,211,211, 0.4);
  height: auto;
 }
 }
-div {background-color: rgba(211,211,211, 0.4);
-  width: auto;
+.mydiv {background-color: rgba(211,211,211, 0.4);
+  width: 150px;
+  border-radius: 25px;
+  border: 4px;
+  height: 40px;
+  padding:inherit;
 }
 
   }
